@@ -1,0 +1,47 @@
+body{
+
+    margin: 0;
+}
+
+header{
+    background: #4285f4;
+    color: #ffffff;
+    padding: 15px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+.banner{
+    background: #e2a9a9;
+    opacity: 0.4;
+    height: 150px;
+}
+
+
+#services{
+    background: #ffffff;
+}
+
+content{
+    background: #ffffff;
+}
+
+footer{
+    background: #4285f4;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.menu{
+    display: flex;
+    
+}
+
+li{
+    margin-right: 12px;
+    list-style: none;
+}
